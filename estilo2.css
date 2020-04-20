@@ -1,0 +1,25 @@
+body{
+  background-color: darkslateblue
+}
+a {
+  float: left;
+  display: block;
+  color: whitesmoke;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+
+}
+
+#navbar {
+  display: block;
+  margin-bottom: 2px
+  justify-content: space-between;
+  float: left;
+}
+
+#sobremim{
+  display: inline-block
+}
+
+}

@@ -1,0 +1,20 @@
+body {
+  background-color: darkslateblue
+}
+
+a {
+  float: flex;
+  display: block;
+  color: whitesmoke;
+  text-align: left;
+  padding: 14px 16px;
+  text-decoration: none;
+  padding-bottom: 20 px
+
+}
+
+#navbar {
+  display: block;
+  margin-bottom: 5px
+  justify-content: space-between;
+  float: left;
