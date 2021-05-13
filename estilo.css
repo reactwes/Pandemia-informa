@@ -36,33 +36,6 @@ a{
 .Corona3{
   font-family: Arial, Helvetica, sans-serif;
 }
-.card{
-  font-family: 'Heebo';
-  --bg-filter-opacity: 0.5;
-  background-image: linear-gradient(rgba(0,0,0,var(--bg-filter-opacity)),rgba(0,0,0,var(--bg-filter-opacity))), var(--bg-img);
-  height: 20em;
-  width: 15em;
-  font-size: 1.5em;
-  color: white;
-  border-radius: 1em;
-  padding: 1em;
-  /*margin: 2em;*/
-  display: flex;
-  align-items: flex-end;
-  background-size: cover;
-  background-position: center;
-  box-shadow: 0 0 5em -1em black;
-  transition: all, var(--transition-time);
-  position: relative;
-  overflow: hidden;
-  border: 10px solid #ccc;
-  text-decoration: none;
-}
-
-.card:hover {
-  transform: rotate(0);
-}
-}
 #midia{
   display: flex;
   float: center;
